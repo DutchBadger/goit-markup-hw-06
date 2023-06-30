@@ -264,7 +264,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office@2x.jpg);
+      url(../images/people_office@2x.jpg);
   }
 }
 
@@ -961,7 +961,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office.jpg);
+      url(../images/people_office.jpg);
   }
 
   @media (min-resolution: 192dpi) {
@@ -971,7 +971,7 @@ img {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/people-office@2x.jpg);
+        url(../images/people_office@2x.jpg);
     }
   }
 
@@ -1101,7 +1101,7 @@ img {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/people-office.jpg);
+        url(../images/people_office.jpg);
       padding: 188px 0;
       max-width: 1440px;
     }
@@ -1113,7 +1113,7 @@ img {
             rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)
           ),
-          url(../images/people-office@2x.jpg);
+          url(../images/people_office@2x.jpg);
       }
     }
 
