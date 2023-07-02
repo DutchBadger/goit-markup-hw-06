@@ -46,7 +46,8 @@ a {
 
 img {
   display: block;
-  width: 100%;
+  max-width: 100%;
+  height: auto;
 }
 
 .link {
@@ -167,6 +168,9 @@ img {
 }
 
 .menu-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   position: fixed;
   top: 0;
   left: 0;
@@ -184,9 +188,6 @@ img {
 }
 
 .mobile-menu-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   height: 100%;
 }
 
